@@ -1,5 +1,5 @@
 # Lead Generator Chrome Extension
-
+[LeadsUI](images/Capture.PNG)
 ## Overview
 
 The Lead Generator Chrome extension is designed to simplify the process of lead generation by allowing users to collect and manage contact URLs directly within their browser. Whether you're prospecting on LinkedIn, browsing company websites, or exploring other platforms, this extension helps you gather potential leads efficiently.
