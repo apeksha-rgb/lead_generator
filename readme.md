@@ -28,3 +28,12 @@ The Lead Generator Chrome extension is designed to simplify the process of lead 
 3. **Managing Leads**:
    - View your lead list displayed as clickable links in the extension popup.
    - Double-click "Delete All" to clear your entire lead list.
+  
+## Contributions
+Contributions are welcome! Here's how you can contribute:
+
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
